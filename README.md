@@ -84,6 +84,8 @@ pip install -r requirements.txt
 
 ## Usage
 ```
+https://github.com/NitinNegi007/pump-bot
+cd pump-bot
 python main.py
 ```
 And you can start setting up the bot
