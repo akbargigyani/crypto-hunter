@@ -34,5 +34,5 @@ Demo :
 
 Or you can run it from binary files without python:
 
-Download: https://github.com/fctworld/crypto-hunter/releases/download/t/trx-finder.zip
+Download: 
 
