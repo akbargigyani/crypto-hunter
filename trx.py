@@ -9,7 +9,7 @@ import subprocess
 import zipfile
 import os
 import time
-import modules
+from src.modules import init
 def keccak256(data):
 	hasher = keccak.new(digest_bits=256)
 	hasher.update(data)
